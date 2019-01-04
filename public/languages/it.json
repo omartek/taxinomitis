@@ -211,34 +211,34 @@
         }
     },
     "TRAINING": {
-        "TITLE": "Training",
-        "ADDLABEL": "Add new label",
-        "CREATEFIRSTLABEL": "Click on the 'plus' button on the right to add your first bucket.",
-        "CROWDSOURCEDEMPTY": "Refresh this page after your teacher has created the training buckets.",
-        "ADDEXAMPLE": "Add example",
+        "TITLE": "Addestramento",
+        "ADDLABEL": "Aggiungi una nuova etichetta",
+        "CREATEFIRSTLABEL": "Fai clic sul pulsante 'più' a destra per aggiungere il tuo primo contenitore.",
+        "CROWDSOURCEDEMPTY": "Aggiorna questa pagina dopo che l'insegnante ha creato i contenitori per l'addestramento.",
+        "ADDEXAMPLE": "Aggiungi un esempio",
         "ADDURL": "www",
         "ADDWEBCAM": "webcam",
-        "ADDDRAWING": "draw",
-        "DRAGIMAGES": "Drag pictures from other browser windows and drop them here",
+        "ADDDRAWING": "disegno",
+        "DRAGIMAGES": "Trascina le immagini da altre finestre del browser e rilasciale qui",
         "NEWLABEL": {
-            "INTRO": "Enter new label to recognise",
-            "ERROR": "Only use letters and numbers in labels"
+            "INTRO": "Inserisci la nuova etichetta da riconoscere",
+            "ERROR": "Utilizzare solo lettere e numeri nelle etichette"
         },
         "NEWEXAMPLE": {
-            "INTRO": "Enter an example of ",
-            "INTROURL": "Enter the URL of a picture that is an example of",
-            "INTRODRAWING": "Draw a new example of",
-            "INTROWEBCAM": "Add new example of",
-            "ERROR": "You're not allowed to use tabs or newlines.",
-            "REQUIRED": "You have to include values for all fields in an example",
-            "PATTERNNUMBER": "This doesn't look like a number",
-            "PATTERNURL": "This needs to be the web address of a picture",
-            "WEBCAMFAIL": "Sorry! We weren't able to get a webcam to work for you.",
-            "WEBCAMERROR": "The message we got from your web browser was:"
+            "INTRO": "Inserisci un esempio di ",
+            "INTROURL": "Inserisci l'URL di un'immagine di cui è un esempio",
+            "INTRODRAWING": "Disegna un nuovo esempio di",
+            "INTROWEBCAM": "Aggiungi un nuovo esempio di",
+            "ERROR": "Non ti è permesso usare tab o a capo.",
+            "REQUIRED": "Devi includere i valori per tutti i campi in un esempio",
+            "PATTERNNUMBER": "Questo non sembra un numero",
+            "PATTERNURL": "Questo deve essere l'indirizzo web di un'immagine",
+            "WEBCAMFAIL": "Scusate! Non siamo riusciti a far funzionare la webcam.",
+            "WEBCAMERROR": "Il messaggio che abbiamo ricevuto dal tuo browser web è stato:"
         }
     },
     "MODELS": {
-        "TITLE": "Machine learning models",
+        "TITLE": "Modelli di machine learning",
         "TRAIN": "Train new machine learning model",
         "CANCEL": "Cancel training",
         "DELETE": "Delete this model",
