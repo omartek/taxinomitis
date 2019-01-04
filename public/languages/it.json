@@ -138,76 +138,76 @@
             "NOTES": "Dai al tuo progetto un nome per descrivere che genere di cose proverai ad insegnare a riconoscere al computer."
         },
         "WHOLE_CLASS_PROJECT": {
-            "TITLE": "Whole-class project?",
-            "NOTES_1": "Tick this if you want your whole class to be able to work on this project together.",
-            "NOTES_2": "This is useful for projects that teach crowd-sourcing as an approach to training machine learning projects."
+            "TITLE": "Progetto di classe?",
+            "NOTES_1": "Spunta qui se vuoi che tutta la tua classe sia in grado di lavorare insieme a questo progetto.",
+            "NOTES_2": "Questo è utile per i progetti che insegnano il crowdsourcing come approccio alla formazione di progetti di machine learning."
         },
         "TYPES": {
-            "LABEL": "Recognising",
-            "NOTES_1": "What type of thing do you want to teach the computer to recognise?",
-            "NOTES_2": "For words, sentences or paragraphs, choose \"text\"",
-            "NOTES_3": "For photos, diagrams and pictures, choose \"images\"",
-            "NOTES_4": "For sets of numbers or multiple choices, choose \"numbers\""
+            "LABEL": "Riconoscimento",
+            "NOTES_1": "Che tipo di cosa vuoi insegnare al computer a riconoscere?",
+            "NOTES_2": "Per parole, frasi o paragrafi, scegli \"testo\"",
+            "NOTES_3": "Per foto, diagrammi e immagini, scegli \"immagini\"",
+            "NOTES_4": "Per set di numeri o scelte multiple, scegli \"numeri\""
         },
         "LANGUAGE": {
-            "LABEL": "Language",
-            "NOTES": "What language will the text in this project be?"
+            "LABEL": "Lingua",
+            "NOTES": "In che lingua sarà il testo di questo progetto?"
         },
         "FIELDS": {
             "TYPE": {
-                "TITLE": "Type of value",
-                "NUMBER": "number",
-                "MULTIPLE_CHOICE": "multiple-choice"
+                "TITLE": "Tipo di valore",
+                "NUMBER": "numero",
+                "MULTIPLE_CHOICE": "scelta multipla"
             },
             "CHOICES": {
-                "TITLE": "Choices:",
-                "LABEL": "add a choice"
+                "TITLE": "Scelte:",
+                "LABEL": "aggiungi una scelta"
             },
             "NEWFIELD": {
-                "DESCRIBE_FIELD": "Give this field a name to describe the value",
-                "MULTICHOICE": "If it can be described as choosing from a few options, choose \"multiple-choice\".",
-                "ADD_FIRST_FIELD": "Type in a choice to use in your multiple-choice list, then press Enter.",
-                "ADD_ANOTHER_FIELD": "Type in another choice to use in your multiple-choice list, then press Enter."
+                "DESCRIBE_FIELD": "Dai a questo campo un nome per descriverne il valore",
+                "MULTICHOICE": "Se può essere descritto scegliendo tra poche opzioni, scegli \"scelta multipla\".",
+                "ADD_FIRST_FIELD": "Digita una scelta da utilizzare nell'elenco di scelta multipla, quindi premi Invio.",
+                "ADD_ANOTHER_FIELD": "Digita un'altra scelta da utilizzare nell'elenco di scelta multipla, quindi premi Invio."
             },
             "NEWVALUE": {
-                "ADD_FIRST_VALUE": "Start to describe the values that you'll include with each example to train the computer with by clicking the 'Add a value' button.",
-                "VALUES_LIMIT": "You are not allowed more than 10 values in a project."
+                "ADD_FIRST_VALUE": "Inizia a descrivere i valori che includerai con ogni esempio per addestrare il computer facendo clic sul pulsante 'Aggiungi un valore'.",
+                "VALUES_LIMIT": "Non sono ammessi più di 10 valori per ogni progetto."
             }
         },
-        "CREATE": "Create",
+        "CREATE": "Crea",
         "ERRORS": {
-            "REQUIRED": "This is required!",
-            "TOOLONG": "That's too long!"
+            "REQUIRED": "Questo è richiesto!",
+            "TOOLONG": "Questo è troppo lungo!"
         }
     },
     "PROJECT": {
         "TRAIN": {
-            "TITLE": "Train",
-            "BODY": "Collect examples of what you want the computer to recognise"
+            "TITLE": "Addestramento",
+            "BODY": "Raccogli esempi di ciò che vuoi che il computer riconosca"
         },
         "LEARNANDTEST": {
-            "TITLE": "Learn &amp; Test",
-            "BODY": "Use the examples to train the computer to recognise"
+            "TITLE": "Impara &amp; Testa",
+            "BODY": "Usa gli esempi per addestrare il computer a riconoscere"
         },
         "MAKES": {
-            "TITLE": "Make",
-            "BODY": "Use the machine learning model you've trained to make a game or app, in Scratch or in Python"
+            "TITLE": "Programma",
+            "BODY": "Utilizza il modello di machine learning che hai addestrato per realizzare un gioco o un'app, in Scratch o in Python"
         },
         "SCRATCH": {
             "TITLE": "Scratch",
-            "BODY": "Use the machine learning model you've trained to make a game in Scratch"
+            "BODY": "Utilizza il modello di machine learning che hai addestrato per realizzare un gioco con Scratch"
         },
         "PYTHON": {
             "TITLE": "Python",
-            "BODY": "Use the machine learning model you've trained in a Python program"
+            "BODY": "Utilizza il modello di machine learning che hai addestrato in un programma scritto in Python"
         },
         "APPINVENTOR": {
             "TITLE": "App Inventor",
-            "BODY": "Make a mobile app that uses your machine learning model"
+            "BODY": "Crea un'app mobile che utilizza il tuo modello di machine learning"
         },
         "SCRATCH3": {
             "TITLE": "Scratch 3",
-            "BODY": "Use your machine learning model in new version of Scratch"
+            "BODY": "Usa il tuo modello di machine learning nella nuova versione di Scratch"
         }
     },
     "TRAINING": {
