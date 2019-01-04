@@ -239,15 +239,15 @@
     },
     "MODELS": {
         "TITLE": "Modelli di machine learning",
-        "TRAIN": "Train new machine learning model",
-        "CANCEL": "Cancel training",
-        "DELETE": "Delete this model",
-        "TEST_CANVAS": "Draw something to test your model with",
-        "TEST_WEBCAM": "Take a photo to test your model with",
+        "TRAIN": "Addestra nuovi modelli di machine learning",
+        "CANCEL": "Annulla l'addestramento",
+        "DELETE": "Cancella questo modello",
+        "TEST_CANVAS": "Disegna qualcosa con cui testare il tuo modello",
+        "TEST_WEBCAM": "Scatta una foto con cui testare il tuo modello",
         "WHATHAVEYOUDONE": {
-            "TITLE": "What have you done?",
-            "PLEASEWAIT": "This normally takes a few minutes, but can take a little longer if the training computer is very busy.",
-            "FAIL": "Unfortunately, something went wrong.",
+            "TITLE": "Cos'hai fatto?",
+            "PLEASEWAIT": "Questo richiede in genere alcuni minuti, ma può richiedere più tempo se il training computer è molto occupato.",
+            "FAIL": "Sfortunatamente, qualcosa è andato storto.",
 
             "TRAINING" : {
                 "CROWDSOURCED" : {
