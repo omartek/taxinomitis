@@ -95,47 +95,47 @@
         "STUDENT": "Uno studente",
         "FORGOT_TEXT": "Hai dimenticato il tuo nome utente o la password?  Va bene, a volte dimentichiamo le cose.",
         "ARE_YOU_A_STUDENT": "Sei uno studente?",
-        "ARE_YOU_A_STUDENT_INTRO_1": "If your class is already using this tool, ask your teacher or coding group leader to create you an account.",
-        "ARE_YOU_A_STUDENT_INTRO_2": "If your class isn't already using the tool, ask your teacher or coding group leader to get in touch.",
-        "RESET_STUDENT_PASSWORD_1": "If you're a student, we don't have your email address to be able to send you a password-reset email.",
-        "RESET_STUDENT_PASSWORD_2": "That's no problem, though!",
-        "RESET_STUDENT_PASSWORD_3": "Just ask your teacher or group leader who first signed you up. They will be able to reset your password from their Admin page."
+        "ARE_YOU_A_STUDENT_INTRO_1": "Se la tua classe sta già utilizzando questo strumento, chiedi al tuo insegnante o all'istruttore del gruppo di conding di crearti un account.",
+        "ARE_YOU_A_STUDENT_INTRO_2": "Se la tua classe non sta già utilizzando lo strumento, chiedi al tuo insegnante o all'istruttore del gruppo di conding di farlo.",
+        "RESET_STUDENT_PASSWORD_1": "Se sei uno studente, non abbiamo il tuo indirizzo e-mail per poterti inviare una e-mail per reimpostazione la password.",
+        "RESET_STUDENT_PASSWORD_2": "Non è un problema!",
+        "RESET_STUDENT_PASSWORD_3": "Basta chiedere al tuo insegnante o all'istruttore che ti ha registrato per la prima volta. Saranno in grado di reimpostare la password dalla loro pagina di amministrazione."
     },
     "SIGNUP": {
         "TEACHER": {
-            "TITLE": "Are you a teacher or leader of a coding club?",
-            "INFO1": "If you would like access for your students, please create a class account below.",
-            "INFO2": "There are two types of class account - depending on who sets it up."
+            "TITLE": "Sei un insegnante o istruttore in un gruppo di coding?",
+            "INFO1": "Se desideri dare l'accesso ai tuoi studenti, crea un account di classe qui di seguito.",
+            "INFO2": "Esistono due tipi di account di classe, a seconda di chi lo ha impostato."
         },
         "UNMANAGED": {
-            "TITLE": "Create an <strong>unmanaged</strong> class account",
-            "INTRO": "If you are happy to set up and manage the class account yourself, you can do it now!",
-            "LISTINTRO": "You will need to:",
-            "LIST_CREATEACCOUNT": "Create an account on IBM Cloud",
-            "LIST_CREATEAPIKEYS": "Create API key(s) for Watson cloud services needed to train machine learning models",
-            "LIST_ENTERAPIKEYS": "Enter the API keys into this Machine Learning for Kids tool",
-            "HELP": "Step-by-step instructions (with screenshots) are available for all of this."
+            "TITLE": "Crea un account di classe <strong>libero</strong>",
+            "INTRO": "Se preferisci configurare e gestire tu stesso l'account di classe, puoi farlo ora!",
+            "LISTINTRO": "Dovrai:",
+            "LIST_CREATEACCOUNT": "Creare un account su IBM Cloud",
+            "LIST_CREATEAPIKEYS": "Creare una chiave API per utilizzare i servizi cloud di Watson, necessari alla creazione dei modelli di machine learning",
+            "LIST_ENTERAPIKEYS": "Inserisci le chiavi API in questo strumento Machine Learning per bambini",
+            "HELP": "Sono disponibili istruzioni passo-passo (con screenshot) per tutti i passaggi."
         },
         "MANAGED": {
-            "TITLE": "Create a <strong>managed</strong> class account",
-            "INTRO": "If you would like Dale to set up the class account, use the button below to send an email with the following information:",
-            "LIST_NUMBEROFSTUDENTS": "Roughly how many student accounts you will need",
-            "LIST_NAMEOFSCHOOL": "The name of the school or coding group the account is for",
+            "TITLE": "Crea un account classe <strong>gestito</strong>",
+            "INTRO": "Se desideri che Dale configuri l'account della classe, utilizza il pulsante in basso per inviare un'email con le seguenti informazioni:",
+            "LIST_NUMBEROFSTUDENTS": "Indicativamente, quanti account studenti ti serviranno",
+            "LIST_NAMEOFSCHOOL": "Il nome della scuola o del gruppo di coding per cui crei l'account",
             "EMAIL": "Email"
         }
     },
     "PROJECTS": {
-        "TITLE": "Your machine learning projects",
-        "ADDNEWPROJECT": "Add a new project",
-        "CREATEFIRSTPROJECT": "Click on the 'plus' button on the right to create your first project.",
-        "RECOGNISING": "Recognising",
+        "TITLE": "I tuoi progetti di machine learning",
+        "ADDNEWPROJECT": "Aggiungi un nuovo progetto",
+        "CREATEFIRSTPROJECT": "Clicca il pulsante 'più' sulla destra per creare il tuo primo progetto.",
+        "RECOGNISING": "Riconoscimento",
         "AS": "as"
     },
     "NEWPROJECT": {
-        "TITLE": "Start a new machine learning project",
+        "TITLE": "Inizia un nuovo progetto di machine learning",
         "PROJECT_NAME": {
-            "TITLE": "Project Name",
-            "NOTES": "Give your project a name to describe what sort of thing you'll try to teach the computer to recognise."
+            "TITLE": "Titolo del progetto",
+            "NOTES": "Dai al tuo progetto un nome per descrivere che genere di cose proverai ad insegnare a riconoscere al computer."
         },
         "WHOLE_CLASS_PROJECT": {
             "TITLE": "Whole-class project?",
