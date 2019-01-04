@@ -8,71 +8,71 @@
         "WARNING": "Attenzione:",
         "INFO": "Informazioni:",
 
-        "ADD": "Add",
-        "CANCEL": "Cancel",
-        "DELETE": "Delete",
-        "EDIT": "Edit",
-        "TEST": "Test",
+        "ADD": "Aggiungi",
+        "CANCEL": "Annulla",
+        "DELETE": "Cancella",
+        "EDIT": "Modifica",
+        "TEST": "Prova",
 
-        "ABOUT": "About",
-        "TEACHER": "Teacher",
-        "PROJECTS": "Projects",
-        "WORKSHEETS": "Worksheets",
-        "NEWS": "News",
-        "HELP": "Help",
-        "LOGIN": "Log In",
-        "LOGOUT": "Log Out",
+        "ABOUT": "Circa",
+        "TEACHER": "Insegnante",
+        "PROJECTS": "Progetti",
+        "WORKSHEETS": "Fogli di lavoro",
+        "NEWS": "Novità",
+        "HELP": "Aiuto",
+        "LOGIN": "Accedi",
+        "LOGOUT": "Esci,
 
         "BETA": "Beta",
-        "INCOMPLETE": "Incomplete!"
+        "INCOMPLETE": "Incompleto!"
     },
     "ABOUT": {
-        "TITLE": "Machine Learning for Kids",
-        "IN6SECS": "In 6 seconds...",
-        "IN20MINS": "In 20 minutes...",
+        "TITLE": "Machine Learning per bambini",
+        "IN6SECS": "In 6 secondi...",
+        "IN20MINS": "In 20 minuti...",
         "WHAT": {
-            "TITLE": "What?",
-            "BODY" : "This tool introduces machine learning by providing hands-on experiences for training machine learning systems and building things with them. <br/><br/>It provides an easy-to-use guided environment for training machine learning models for classifying text, numbers or recognising images. <br/><br/>This builds on existing efforts to introduce and teach coding to children, by adding these models to <a href='https://scratch.mit.edu/about' target='_blank'>Scratch</a> (a widely used educational coding platform), allowing children to create projects and build games with the machine learning models that they've trained. <br/><br/>To learn more, look at:"
+            "TITLE": "Che cosa?",
+            "BODY" : "Questo strumento introduce il machine learning (o apprendimento automatico) fornendo esperienze pratiche per addestrare i sistemi di apprendimento automatico e costruire cose con loro. <br/><br/>Fornisce un ambiente guidato di facile utilizzo per l'addestramento di modelli di machine learning per la classificazione di testo, numeri o il riconoscimento di immagini. <br/><br/>Ciò si basa sugli sforzi esistenti per introdurre e insegnare la codifica ai bambini, aggiungendo questi modelli a <a href='https://scratch.mit.edu/about' target='_blank'>Scratch</a> (una piattaforma di codifica educativa ampiamente utilizzata), consentendo ai bambini di creare progetti e costruire giochi con i modelli di apprendimento automatico che hanno formato.  Per saperne di più, guarda:"
         },
         "WHY": {
-            "TITLE": "Why?",
-            "BODY": "Machine learning is all around us. We all use machine learning systems every day - such as spam filters, recommendation engines, language translation services, chatbots and digital assistants, search engines, and fraud detection systems.<br/><br/>It will soon be normal for machine learning systems to drive our cars, and help doctors to diagnose and treat our illnesses. <br/><br/>It's important that kids are aware of how our world works. The best way to understand the capabilities and implications is to be able to build with this technology for themselves. <br/><br/>To learn more, read: <a target='_blank' class='btn btn-primary' href='http://dalelane.co.uk/blog/?p=3513'>'Introducing Machine Learning to kids'</a>"
+            "TITLE": "Perchè?",
+            "BODY": "Il machine learning è tutto intorno a noi. Tutti noi utilizziamo quotidianamente sistemi di apprendimento automatico, quali filtri antispam, motori di raccomandazione, servizi di traduzione linguistica, chatbot e assistenti digitali, motori di ricerca e sistemi di rilevamento delle frodi.<br/><br/>Presto sarà normale che i sistemi di machine learning guidino le nostre macchine e aiutino i medici a diagnosticare e curare le nostre malattie. <br/><br/>È importante che i bambini siano consapevoli di come funziona il nostro mondo. Il modo migliore per comprendere le capacità e le implicazioni è essere in grado di costruire, con questa tecnologia, qualcosa per loro stessi. <br/><br/>Per saperne di più, leggi: <a target='_blank' class='btn btn-primary' href='http://dalelane.co.uk/blog/?p=3513'>'Introduzione al machine learning per bambini'</a>"
         },
         "TECH": {
-            "TITLE": "Tech",
-            "BODY": "The tool is entirely web-based and requires no installs or complicated setup to be able to use. <br/><br/>It was designed for use in the classroom by schools and volunteer-run coding groups for children, and provides an admin page for teachers or group leaders to be able to manage and administer access for their students.<br/><br/>It is being built by <a target='_blank' href='http://dalelane.co.uk/'>Dale Lane</a> using APIs from <a target='_blank' href='https://www.ibm.com/watson/developercloud/'>IBM Watson Developer Cloud</a>.",
-            "LOGIN": "To get started: "
+            "TITLE": "Tecnologia",
+            "BODY": "Lo strumento è interamente basato sul Web e non richiede installazione o configurazioni complicate per poterlo utilizzare. <br/><br/>È stato progettato per l'uso in classe da parte di scuole e gruppi di coding gestiti da volontari per bambini, e fornisce una pagina di amministrazione per insegnanti o istruttori di gruppi per essere in grado di gestire e amministrare l'accesso per i loro studenti. <br/><br/>È stato realizzato da<a target='_blank' href='http://dalelane.co.uk/'>Dale Lane</a> usando le API fornite da <a target='_blank' href='https://www.ibm.com/watson/developercloud/'>IBM Watson Developer Cloud</a>.",
+            "LOGIN": "Per cominciare: "
         }
     },
     "NEWS": {
-        "TITLE": "News",
+        "TITLE": "Novità",
         "UPDATES": {
-            "TITLE": "News & Updates",
-            "DESCRIPTION": "News and updates from @MLforKids"
+            "TITLE": "Novità e aggiornamenti",
+            "DESCRIPTION": "Novità e aggiornamenti da @MLforKids"
         },
         "MENTIONS": {
-            "TITLE": "Mentions & Media",
-            "DESCRIPTION": "loading Mentions &amp; Media from wakelet.com"
+            "TITLE": "Riconoscimenti & Media",
+            "DESCRIPTION": "caricamento dei riconoscimenti &amp; Media forniti da wakelet.com"
         }
     },
     "ERRORS": {
-        "PAGENOTFOUND": "Page not found",
-        "NOTLOGGEDIN": "Not logged in",
+        "PAGENOTFOUND": "Pagina non trovata",
+        "NOTLOGGEDIN": "Accesso non eseguito",
 
-        "MISSINGPROJECTID": "Missing project id. Go back to ",
-        "IFPERSISTENT": "If this keeps happening, please ",
+        "MISSINGPROJECTID": "Identificativo del progetto mancante. Ritorno a ",
+        "IFPERSISTENT": "Se succede nuovamente, perfavore ",
 
-        "LETMEKNOW": "let me know"
+        "LETMEKNOW": "comunicamelo"
     },
     "WELCOME": {
-        "TITLE": "Teach a computer to play a game",
-        "GET_STARTED": "Get started",
-        "LEARN_MORE": "Learn more",
-        "ADMIN_LABEL": "Go to your <strong>Admin Page</strong>",
-        "PROJECT_LABEL": "Go to your <strong>Projects</strong>",
-        "STEP_1_TEXT": "Collect examples of things you want to be able to recognise",
-        "STEP_2_TEXT": "Use the examples to train a computer to be able to recognise them",
-        "STEP_3_TEXT": "Make a game in Scratch that uses the computer's ability to recognise them"
+        "TITLE": "Insegna a un computer a giocare",
+        "GET_STARTED": "Iniziamo",
+        "LEARN_MORE": "Per saperne di più",
+        "ADMIN_LABEL": "Vai alla tua <strong>Pagina dell'amministratore</strong>",
+        "PROJECT_LABEL": "Vai ai tuoi <strong>Progetti</strong>",
+        "STEP_1_TEXT": "Raccogli esempi di cose che vuoi essere in grado di riconoscere",
+        "STEP_2_TEXT": "Utilizzare gli esempi per addestrare un computer ad essere in grado di riconoscerli",
+        "STEP_3_TEXT": "Crea un gioco in Scratch che utilizza la capacità del computer di riconoscerli"
     },
     "LOGIN": {
         "TITLE": "Get started with machine learning",
