@@ -1,12 +1,12 @@
 {
     "APP": {
-        "TITLE": "Machine Learning for Kids",
+        "TITLE": "Machine Learning per bambini",
 
-        "BACK": "Back",
-        "BACKTOPROJECT": "&lt; Back to project",
-        "ERROR": "Error:",
-        "WARNING": "Warning:",
-        "INFO": "Info:",
+        "BACK": "Indietro",
+        "BACKTOPROJECT": "&lt; Ritorna ai progetti",
+        "ERROR": "Errore:",
+        "WARNING": "Attenzione:",
+        "INFO": "Informazioni:",
 
         "ADD": "Add",
         "CANCEL": "Cancel",
